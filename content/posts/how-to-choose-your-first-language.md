@@ -1,6 +1,6 @@
 ---
 title: "How to Choose Your First Language"
-date: 2026-08-22T00:40:28+01:00
+date: 2026-10-12T00:40:28+01:00
 author: "Paolo Fabbri"
 tags: ["learn-to-code", "become-a-web-developer", "software-development", "beginners", "careers"]
 summary: "Which language should you learn first, and what should you build with it? A look at how the job market, your target role, and your own aptitude should shape that decision."
